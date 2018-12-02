@@ -8,7 +8,7 @@ CTFd源码
  * 安装Flask
    * sudo pip install Flask
  * 从github上获取CTFd_zh
-   * git clone https://github.com/totalo/CTFd_zh.git
+   * git clone https://github.com/Pluto-10/CTFd.git
    * cd CTFd_zh
    * sudo ./prepare.sh
    * sudo python serve.py
